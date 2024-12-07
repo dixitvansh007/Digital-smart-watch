@@ -18,6 +18,7 @@ Python 3.x
 Basic Python syntax, functions, and conditional statements.
 
 #### Task :
+
 Create a basic calculator that can perform addition, subtraction, multiplication, and division.
 The program should take user input and allow them to choose an operation, then output the result.
 #### Steps :
