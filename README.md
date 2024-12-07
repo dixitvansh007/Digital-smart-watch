@@ -175,7 +175,7 @@ Save the data to a file and load it on startup.
 
 
 ### Project 9 - Python Snake Game (Using Pygame)
-####Topics Covered: 
+#### Topics Covered: 
 Pygame, Object-Oriented Programming (OOP), Game Development
 #### Tools Needed: 
 Python 3.x, Pygame
