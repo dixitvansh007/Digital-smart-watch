@@ -30,7 +30,8 @@ Handle edge cases (e.g., division by zero).
 Print the result after each operation.
 
 ### Project 2 - Number Guessing Game
-#### Topics covered : Loops, Random Module, User Input, Conditional Statements
+#### Topics covered : 
+Loops, Random Module, User Input, Conditional Statements
 
 
 
