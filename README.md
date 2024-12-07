@@ -2,12 +2,12 @@
 # Lab Task Python
 
 
-#### Project 1 - Calculator Project
+### Project 1 - Calculator Project
 
       
 #### Topics covered :
    Functions, Loops, Conditional Statements, User Input
-###
+   
 #### Tools Needed :
 Python 3.x
 
@@ -30,5 +30,7 @@ Handle edge cases (e.g., division by zero).
 Print the result after each operation.
 
 ### Project 2 - Number Guessing Game
+#### Topics covered : Loops, Random Module, User Input, Conditional Statements
+
 
 
