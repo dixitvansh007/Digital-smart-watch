@@ -14,10 +14,10 @@ Python 3.x
 #### Duration : 
 1.5 hours
 
-## Prerequisites :
+#### Prerequisites :
 Basic Python syntax, functions, and conditional statements.
 
-## Task :
+#### Task :
 Create a basic calculator that can perform addition, subtraction, multiplication, and division.
 The program should take user input and allow them to choose an operation, then output the result.
 #### Steps :
