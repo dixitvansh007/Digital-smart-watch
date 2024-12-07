@@ -33,13 +33,10 @@ Print the result after each operation.
 #### Topics covered : 
 Loops, Random Module, User Input, Conditional Statements
 
-####Topics Covered:
-Loops, Random Module, User Input, Conditional Statements
-
 ####Tools Needed: 
 Python 3.x
 
-  ####Duration: 
+####Duration: 
 1-2 hours
 
 ####Prerequisites: 
