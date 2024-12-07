@@ -39,7 +39,7 @@ Loops, Random Module, User Input, Conditional Statements
 ####Tools Needed: 
 Python 3.x
 
-####Duration: 
+  ####Duration: 
 1-2 hours
 
 ####Prerequisites: 
