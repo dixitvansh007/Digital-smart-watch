@@ -1,4 +1,3 @@
-
 # Lab Task Python
 
 
