@@ -61,7 +61,7 @@ Python 3.x
 #### Prerequisites: 
 Basic Python, 2D lists, loops, and conditional statements.
 
-####Task:
+#### Task:
 Implement the classic Tic-Tac-Toe game for two players.
 Use a 3x3 grid and alternate turns between two players (X and O).
 
@@ -79,7 +79,7 @@ APIs, JSON, HTTP Requests
 Python 3.x, Requests Library
 #### Duration: 
 1-2 hours
-####Prerequisites: 
+#### Prerequisites: 
 APIs, JSON handling, HTTP requests.
 
 #### Task:
@@ -153,8 +153,7 @@ Determine the winner based on the rules of the game.
 Display the result and allow the player to play again.
 
 
-### Project 8 - 
-Expense Tracker Application
+### Project 8 - Expense Tracker Application
 #### Topics Covered: 
 File Handling, Lists, Dictionaries, Loops
 #### Tools Needed: 
@@ -301,7 +300,7 @@ These tasks cover a wide range of Python topics and are structured to guide lear
 #### Duration: 
 4-5 hours
 #### Tools Needed: 
-Flask, Flask-Login, SQLite, Flask-SQLAlchemy
+Django Django-Login, SQLite, Flask-SQLAlchemy
 #### Prerequisites: 
 Basic understanding of Flask, web development, user authentication concepts, and Python programming.
 #### Steps of Solution:
@@ -335,7 +334,7 @@ Basic understanding of Flask, web development, user authentication concepts, and
       Templates for registration, login, and dashboard using Flask's render_template.
 
 
-### Project - Task Management System (Django)
+### Project 16 - Task Management System (Django)
        
     
 
